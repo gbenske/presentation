@@ -6,17 +6,23 @@
  */
 
 body {
-  background: #000;
+  background: url('/assets/image/bg-presentation');
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #000;
 }
 
 html:-webkit-full-screen-ancestor {
-  background: #000;
+  background: url('/assets/image/bg-presentation');
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #000;
 }
 
 html:-moz-full-screen-ancestor {
-  background: #000;
+  background: url('/assets/image/bg-presentation');
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #000;
 }
 
