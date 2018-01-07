@@ -4,11 +4,9 @@
 
 ---
 
-# Tiefdruck
+## Tiefdruck
 
-<br>
-
-## Druckverfahren
+### Druckverfahren
 
  - Bebilderung der Druckplatte bzw. der Kupferschicht durch eine Stichel |
  - Druckform Zylinder wird komplett eingefärbt |

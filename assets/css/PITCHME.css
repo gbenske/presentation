@@ -23,6 +23,15 @@ html:-moz-full-screen-ancestor {
 .reveal h1{
   font-size: 2.8em;
   margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.reveal h2{
+  font-size: 1.5em;
+}
+
+.reveal h3{
+  font-size: 0.8em;
 }
 
 .reveal pre {
