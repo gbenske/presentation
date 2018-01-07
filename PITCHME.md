@@ -1,10 +1,8 @@
----?image=assets/image/bg-presentation2.jpg&opacity=100
-
 # Tiefdruck und Tampondruck
 
 ### Eine Präsentation von German Benske
 
----?image=assets/image/bg-presentation2.jpg&opacity=100
+---
 
 ## Tiefdruck
 
@@ -15,7 +13,7 @@
  - Ene Rakel streift die restliche Farbe ab |
  - Gegendruckzylinder presst Papier mit hohem Druck auf dei Druckform und das saugfhähige Papier nimmt die Farbe auf |
 
----?image=assets/image/bg-presentation.png&opacity=100
+---
 
 ## Tiefdruck
 
@@ -25,7 +23,7 @@
 - Druckfarbe: dünnflüssig |
 - Kennzeichen: bei Buchstaben können kleine Zacken am Rand entstehen |
 
----?image=assets/image/bg-presentation.png&opacity=100
+---
 
 ## Tiefdruck
 
@@ -37,7 +35,7 @@
 - herkömmliche Druckverfahren  |
 - direktes Druckverfahren |
 
----?image=assets/image/bg-presentation.png&opacity=100
+---
 
 ## Quellen
 
