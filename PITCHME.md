@@ -14,16 +14,18 @@
  - Gegendruckzylinder presst Papier mit hohem Druck auf dei Druckform und das saugfhähige Papier nimmt die Farbe auf |
 
 ---
+## Tiefdruck
 
-## Druckform
+### Druckform
 
 - Druckform: Stahlzylinder mit dicker Kupferschicht |
 - Druckfarbe: dünnflüssig |
 - Kennzeichen: bei Buchstaben können kleine Zacken am Rand entstehen |
 
 ---
+## Tiefdruck
 
-## Bedruckstoffe / Druckprodukte
+### Bedruckstoffe / Druckprodukte
 
 - glatte Oberfläche, für große Auflagen |
 - zu druckenden Stellen = Näpfchen und nicht zu druckende Stellen = Stege |
@@ -31,6 +33,8 @@
 - herkömmliche Druckverfahren  |
 - direktes Druckverfahren |
 
+---
+## Quellen
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
