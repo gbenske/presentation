@@ -1,6 +1,4 @@
-# Druckverfahren
-
-## Tiefdruck und Tampondruck
+# Tiefdruck und Tampondruck
 
 ### Eine Präsentation von German Benske
 
@@ -33,10 +31,9 @@
 - zu druckenden Stellen = Näpfchen und nicht zu druckende Stellen = Stege |
 - kann Halltöne durch unterschiedlich große Näpchen erzeugen |
 - herkömmliche Druckverfahren  |
-- direktes Druckverfahren
+- direktes Druckverfahren |
 
----
-
-### Danke fürs Zuhören
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
+
+### Danke fürs Zuhören
