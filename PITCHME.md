@@ -1,10 +1,10 @@
----?image=assets/image/bg-presentation.png&opacity=100
+---?image=assets/image/bg-presentation2.jpg&opacity=100
 
 # Tiefdruck und Tampondruck
 
 ### Eine Präsentation von German Benske
 
----?image=assets/image/bg-presentation.png&opacity=100
+---?image=assets/image/bg-presentation2.jpg&opacity=100
 
 ## Tiefdruck
 
@@ -15,7 +15,7 @@
  - Ene Rakel streift die restliche Farbe ab |
  - Gegendruckzylinder presst Papier mit hohem Druck auf dei Druckform und das saugfhähige Papier nimmt die Farbe auf |
 
----?image=assets/image/gitpitch-audience.jpg&opacity=100
+---?image=assets/image/bg-presentation.png&opacity=100
 
 ## Tiefdruck
 
