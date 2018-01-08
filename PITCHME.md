@@ -47,7 +47,7 @@
 
 ---
 
-![Logo](assets/image/Tiefdruck-funktionsweise-Schema.jpg)
+![Tampondruck](assets/image/tampondruck-verfahren-skizze.jpg)
 
 ---
 
