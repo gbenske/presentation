@@ -14,7 +14,6 @@
  - Gegendruckzylinder presst Papier mit hohem Druck auf dei Druckform und das saugfhähige Papier nimmt die Farbe auf |
 
 ---
-#
 
 ## Tiefdruck
 
@@ -44,7 +43,11 @@
 
 - Druckplatte wird seitenrichtig wie beim Tiefdruckverfahren eingefärbt |
 - Tampon aus Silikon übernimmt die Farbe von der Druckplatte und überträgt sie auf den Bedruckstoff |
-- Tampon passt sich an
+- Tampon passt sich an |
+
+---
+
+![Logo](assets/image/Tiefdruck-funktionsweise-Schema.jpg)
 
 ---
 
@@ -70,6 +73,6 @@
 ## Quellen
  - Lorem Ipsum |
 
----?image=assets/image/gitpitch-audience.jpg&opacity=100
+---
 
 ### Danke fürs Zuhören

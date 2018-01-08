@@ -61,6 +61,14 @@
   font-size: 0.73em;
 }
 
+.reveal:not(.has-vertical-slides) .controls .navigate-right, .reveal:not(.has-vertical-slides) .controls .navigate-left{
+  color: #16c1d3;
+}
+
+#title-footer #notification{
+  display: none;
+}
+
 .gp-tip { font-size : 1.5em; }
 
 .gp-contact { font-size : 1.4em; }
