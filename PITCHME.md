@@ -1,6 +1,6 @@
 # Tiefdruck und Tampondruck
 
-### Eine Präsentation von German Benske
+### Eine Präsentation von xyz
 
 ---
 
