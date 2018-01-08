@@ -47,7 +47,7 @@
 
 ---
 
-![Tampondruck](/assets/image/tampondruck-verfahren-skizze.jpg)
+![Tampondruck](assets/image/tampondruck-verfahren-skizze.jpg)
 
 ---
 
