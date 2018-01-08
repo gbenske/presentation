@@ -17,6 +17,7 @@
 
 .reveal h3{
   font-size: 0.8em;
+  padding-bottom: 70px;
 }
 
 .reveal pre {
@@ -54,6 +55,10 @@
 #gp-logo img {
   max-height: 2em;
   max-width: none;
+}
+
+.fragment.visible{
+  font-size: 0.73em;
 }
 
 .gp-tip { font-size : 1.5em; }
