@@ -57,7 +57,7 @@
   max-width: none;
 }
 
-.fragment.visible{
+.reveal .slides section .fragment.visible{
   font-size: 0.73em;
 }
 
