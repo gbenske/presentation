@@ -47,7 +47,7 @@
 
 ---
 
-![Tampondruck](assets/image/tampondruck.jpg)
+![Tampondruck](assets/image/logo.png)
 
 ---
 
