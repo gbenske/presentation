@@ -45,11 +45,7 @@
 - Tampon aus Silikon übernimmt die Farbe von der Druckplatte und überträgt sie auf den Bedruckstoff |
 - Tampon passt sich an |
 
----
-
-![Tampondruck](assets/image/tampondruck-verfahren-skizze.jpg)
-
----
+---?image=assets/image/tampondruck-verfahren-skizze.png.file&size=auto 90%
 
 ## Tampondruck
 

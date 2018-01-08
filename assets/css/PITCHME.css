@@ -61,7 +61,7 @@
   font-size: 0.73em;
 }
 
-.reveal:not(.has-vertical-slides) .controls .navigate-right, .reveal:not(.has-vertical-slides) .controls .navigate-left{
+.reveal:not(.has-vertical-slides) .controls .navigate-right, .reveal:not(.has-vertical-slides) .controls .navigate-left, .reveal .progress{
   color: #16c1d3;
 }
 
