@@ -80,3 +80,5 @@
 ---
 
 ### Danke fürs Zuhören
+
+![Ende](assets/image/ending.jpg)
