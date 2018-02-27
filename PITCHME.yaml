@@ -6,7 +6,7 @@
 #
 theme : night
 theme-override : assets/css/PITCHME.css
-background: assets/image/bg-presentation.png
+background: assets/image/bg-presentation.jpg
 highlight : atom-one-dark
 transition : none
 published : true
