@@ -25,6 +25,11 @@
   box-shadow : none;
 }
 
+.reveal a{
+  color: #16c1d3;
+}
+
+
 .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
