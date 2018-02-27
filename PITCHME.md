@@ -1,6 +1,6 @@
 # Tiefdruck und Tampondruck
 
-### Eine Präsentation von Jolene Müller, Katarina Meier, Sabrina Moselage, Chantal Rath, German Benske
+### Eine Präsentation von Jolene Müller, Katharina Meier, Sabrina Moselage, Chantal Rath, German Benske
 
 ---
 
