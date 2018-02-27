@@ -77,7 +77,7 @@
 ## Quellen
 https://www.werbeartikel-discount.com/wissen/tampondruck/
 http://blog.appl.de/das-tiefdruckverfahren/
-- Kompendium der Mediengestaltung
+https://Kompendium-der-Mediengestaltung.de
 
 ---
 
