@@ -81,6 +81,6 @@ https://Kompendium-der-Mediengestaltung.de
 
 ---
 
-### Danke fürs Zuhören
+## Danke fürs Zuhören
 
 ![Ende](assets/image/ending.jpg)
