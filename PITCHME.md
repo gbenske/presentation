@@ -43,7 +43,7 @@
 
 ## Tampondruck
 
-### Allgemeines
+### Druckverfahren
 
 - Druckplatte wird seitenrichtig wie beim Tiefdruckverfahren eingefärbt |
 - Tampon aus Silikon übernimmt die Farbe von der Druckplatte und überträgt sie auf den Bedruckstoff |
@@ -75,9 +75,9 @@
 ---
 
 ## Quellen
-- https://www.werbeartikel-discount.com/wissen/tampondruck/ |
-- http://blog.appl.de/das-tiefdruckverfahren/ |
-- Kompendium 
+https://www.werbeartikel-discount.com/wissen/tampondruck/
+http://blog.appl.de/das-tiefdruckverfahren/
+- Kompendium der Mediengestaltung
 
 ---
 
