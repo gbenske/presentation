@@ -1,6 +1,6 @@
 # Tiefdruck und Tampondruck
 
-### Eine Präsentation von xyz
+### Eine Präsentation von Jolene Müller, Katarina Meier, Sabrina Moselage, Chantal Rath, German Benske
 
 ---
 
@@ -10,8 +10,8 @@
 
  - Bebilderung der Druckplatte bzw. der Kupferschicht durch eine Stichel |
  - Druckform Zylinder wird komplett eingefärbt |
- - Ene Rakel streift die restliche Farbe ab |
- - Gegendruckzylinder presst Papier mit hohem Druck auf dei Druckform und das saugfhähige Papier nimmt die Farbe auf |
+ - Eine Rakel streift die restliche Farbe ab |
+ - Gegendruckzylinder presst Papier mit hohem Druck auf die Druckform und das saugfhähige Papier nimmt die Farbe auf |
 
 ---
 
@@ -21,29 +21,29 @@
 
 ## Tiefdruck
 
-### Druckform
+### Allgemeines
 
 - Druckform: Stahlzylinder mit dicker Kupferschicht |
 - Druckfarbe: dünnflüssig |
 - Kennzeichen: bei Buchstaben können kleine Zacken am Rand entstehen |
+- glatte Oberfläche, für große Auflagen |
 
 ---
 
 ## Tiefdruck
 
-### Bedruckstoffe / Druckprodukte
+### Allgemeines
 
-- glatte Oberfläche, für große Auflagen |
 - zu druckenden Stellen = Näpfchen und nicht zu druckende Stellen = Stege |
 - kann Halltöne durch unterschiedlich große Näpchen erzeugen |
-- herkömmliche Druckverfahren  |
+- herkömmliches Druckverfahren  |
 - direktes Druckverfahren |
 
 ---
 
 ## Tampondruck
 
-### Druckverfahren
+### Allgemeines
 
 - Druckplatte wird seitenrichtig wie beim Tiefdruckverfahren eingefärbt |
 - Tampon aus Silikon übernimmt die Farbe von der Druckplatte und überträgt sie auf den Bedruckstoff |
@@ -57,7 +57,7 @@
 
 ## Tampondruck
 
-### Druckform
+### Allgemeines
 
 - Druckform: Auswaschplatten aus Metall |
 - Druckfarbe: abstimmbar dünn - zäh |
@@ -67,15 +67,17 @@
 
 ## Tampondruck
 
-### Bedruckstoffe / Druckprodukte
+### Allgemeines
 
-- fast zu alle Materialien, in speziellen Druckereien, Spielwaren, Luftballons |
+- fast alle Materialien, in speziellen Druckereien, Spielwaren, Luftballons |
 - indirektes Druckverfahren |
 
 ---
 
 ## Quellen
- - Lorem Ipsum |
+- https://www.werbeartikel-discount.com/wissen/tampondruck/ |
+- http://blog.appl.de/das-tiefdruckverfahren/ |
+- Kompendium 
 
 ---
 
