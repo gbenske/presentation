@@ -62,15 +62,9 @@
 - Druckform: Auswaschplatten aus Metall |
 - Druckfarbe: abstimmbar dünn - zäh |
 - Kennzeichen: Tampon ist verformbar und scharfe, verzerrungsfreie Verformung |
-
----
-
-## Tampondruck
-
-### Allgemeines
-
 - fast alle Materialien, in speziellen Druckereien, Spielwaren, Luftballons |
 - indirektes Druckverfahren |
+
 
 ---
 
